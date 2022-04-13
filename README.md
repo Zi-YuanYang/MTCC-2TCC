@@ -12,7 +12,7 @@ Our code can be easily modifed to other coding-based methods, such as PalmCode, 
 Thanks to my all cooperators, especially TF Wu and Lu Leng. They contributed so much to this work.
 
 #### Citation
-If you use these codes and they are valuable to your works, please cite our work:
+If our work is valuable to you, please cite our work:
 ```
 @article{yang2022mtcc,
   title={Multi-order Texture Features for Palmprint Recognition},
